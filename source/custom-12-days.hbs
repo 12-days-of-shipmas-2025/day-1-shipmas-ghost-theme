@@ -1,0 +1,31 @@
+{{!< default}}
+{{!--
+================================================================================
+CUSTOM-12-DAYS.HBS - Dedicated 12 Days of Shipmas Page
+================================================================================
+
+Author: Human Written (https://humanwritten.ai)
+License: MIT
+Repository: https://github.com/12-days-of-shipmas-2025/shipmas-ghost-theme
+
+Standalone page showing the 12 Days of Shipmas with intro and subscribe.
+This page is always visible (no date-based hiding like the homepage).
+
+Setup:
+1. Create a new Page in Ghost Admin
+2. Set the slug to "12-days-of-shipmas" (URL: /12-days-of-shipmas/)
+3. In Page Settings, select Template: "12 Days of Shipmas"
+4. Publish the page
+
+Note: Posts must be tagged with "day-1", "day-2", etc. to appear.
+Unpublished days show as "Coming Soon" with a lock icon.
+
+================================================================================
+--}}
+
+{{> "components/header" headerStyle="Off"}}
+
+{{!-- Uses same partials as home.hbs but without date-based hiding --}}
+{{> "shipmas/intro"}}
+{{> "shipmas/grid"}}
+{{> "shipmas/script"}}

@@ -1,0 +1,2852 @@
+{
+  "db": [
+    {
+      "meta": {
+        "exported_on": 1766971082556,
+        "version": "5.130.5"
+      },
+      "data": {
+        "newsletters": [
+          {
+            "id": "69518f94e02a9300014a43e5",
+            "uuid": "0fee2765-0879-4571-b92b-5b53173e932f",
+            "name": "12 days demo",
+            "description": null,
+            "feedback_enabled": 0,
+            "slug": "default-newsletter",
+            "sender_name": null,
+            "sender_email": null,
+            "sender_reply_to": "newsletter",
+            "status": "active",
+            "visibility": "members",
+            "subscribe_on_signup": 1,
+            "sort_order": 0,
+            "header_image": null,
+            "show_header_icon": 1,
+            "show_header_title": 1,
+            "show_excerpt": 0,
+            "title_font_category": "sans_serif",
+            "title_alignment": "center",
+            "show_feature_image": 1,
+            "body_font_category": "sans_serif",
+            "footer_content": null,
+            "show_badge": 1,
+            "show_header_name": 0,
+            "show_post_title_section": 1,
+            "show_comment_cta": 1,
+            "show_subscription_details": 0,
+            "show_latest_posts": 0,
+            "background_color": "light",
+            "post_title_color": null,
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:18:50",
+            "button_corners": "rounded",
+            "button_style": "fill",
+            "title_font_weight": "bold",
+            "link_style": "underline",
+            "image_corners": "square",
+            "header_background_color": "transparent",
+            "section_title_color": null,
+            "divider_color": null,
+            "button_color": "accent",
+            "link_color": "accent"
+          }
+        ],
+        "posts": [
+          {
+            "id": "6951d1e086c2520001cb1513",
+            "uuid": "bf139e64-e766-4297-965c-36ad489e57b6",
+            "title": "Welcome to 12 Days of Shipmas!",
+            "slug": "welcome-12-days-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What apple took away I'd like to bring back :)\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What is 12 Days of Shipmas?\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"12 Days of Shipmas is a challenge to ship 12 projects in 12 days during the holiday season. Each day, you build and launch something new.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This site uses the Shipmas Ghost Theme - an open-source advent-style countdown theme for makers and builders.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Learn more here: \",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"bookmark\",\"version\":1,\"url\":\"https://humanwritten.ai/welcome-12-days-shipmas/\",\"metadata\":{\"icon\":\"__GHOST_URL__/content/images/icon/manifestvibes-2-1-1-2.png\",\"title\":\"The 12 Days of Shipmas\",\"description\":\"What apple took away I’d like to bring back :)\",\"author\":\"🍋\",\"publisher\":\"humanwritten.ai\",\"thumbnail\":\"__GHOST_URL__/content/images/thumbnail/intro-shipmas.png\"},\"caption\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Features\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Beautiful 12-day countdown grid, dark mode by default, festive snowflake animation, and responsive design.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Get the Theme\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This theme is free and open source. Fork it, customize it, and run your own 12 Days of Shipmas!\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"bookmark\",\"version\":1,\"url\":\"https://github.com/12-days-of-shipmas/shipmas-ghost-theme\",\"metadata\":{\"icon\":\"__GHOST_URL__/content/images/icon/pinned-octocat-093da3e6fa40.svg\",\"title\":\"GitHub - 12-days-of-shipmas/shipmas-ghost-theme: A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support\",\"description\":\"A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support - 12-days-of-shipmas/shipmas-ghost-theme\",\"author\":\"12-days-of-shipmas\",\"publisher\":\"GitHub\",\"thumbnail\":\"__GHOST_URL__/content/images/thumbnail/shipmas-ghost-theme\"},\"caption\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you choose to take part, let us know over on x :) \",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"embed\",\"version\":1,\"url\":\"https://x.com/humanwritten_/status/2005393222680428579\",\"embedType\":\"twitter\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">i&#39;ll mainly use claude code, the 👑 of ai coding<br><br>(if anyone would like a week pass dm i have 3 available) <br><br>and i&#39;ll post my updates to this thread + <a href=\\\"https://t.co/dfPqeIylO1\\\">https://t.co/dfPqeIylO1</a> <br><br>if you&#39;d like to see some bts / have any questions please feel free to reach out :)<br><br>also ft. nano…</p>&mdash; 🍋 (@humanwritten_) <a href=\\\"https://twitter.com/humanwritten_/status/2005393222680428579?ref_src=twsrc%5Etfw\\\">December 28, 2025</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\\n\",\"metadata\":{\"url\":\"https://twitter.com/humanwritten_/status/2005393222680428579\",\"author_name\":\"🍋\",\"author_url\":\"https://twitter.com/humanwritten_\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">i&#39;ll mainly use claude code, the 👑 of ai coding<br><br>(if anyone would like a week pass dm i have 3 available) <br><br>and i&#39;ll post my updates to this thread + <a href=\\\"https://t.co/dfPqeIylO1\\\">https://t.co/dfPqeIylO1</a> <br><br>if you&#39;d like to see some bts / have any questions please feel free to reach out :)<br><br>also ft. nano…</p>&mdash; 🍋 (@humanwritten_) <a href=\\\"https://twitter.com/humanwritten_/status/2005393222680428579?ref_src=twsrc%5Etfw\\\">December 28, 2025</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\\n\",\"width\":550,\"height\":null,\"type\":\"twitter\",\"cache_age\":\"3153600000\",\"provider_name\":\"Twitter\",\"provider_url\":\"https://twitter.com\",\"version\":\"1.0\"},\"caption\":\"\"},{\"children\":[],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>What apple took away I'd like to bring back :)</p><h2 id=\"what-is-12-days-of-shipmas\">What is 12 Days of Shipmas?</h2><p>12 Days of Shipmas is a challenge to ship 12 projects in 12 days during the holiday season. Each day, you build and launch something new.</p><p>This site uses the Shipmas Ghost Theme - an open-source advent-style countdown theme for makers and builders.</p><p>Learn more here: </p><figure class=\"kg-card kg-bookmark-card\"><a class=\"kg-bookmark-container\" href=\"https://humanwritten.ai/welcome-12-days-shipmas/\"><div class=\"kg-bookmark-content\"><div class=\"kg-bookmark-title\">The 12 Days of Shipmas</div><div class=\"kg-bookmark-description\">What apple took away I’d like to bring back :)</div><div class=\"kg-bookmark-metadata\"><img class=\"kg-bookmark-icon\" src=\"__GHOST_URL__/content/images/icon/manifestvibes-2-1-1-2.png\" alt=\"\"><span class=\"kg-bookmark-author\">humanwritten.ai</span><span class=\"kg-bookmark-publisher\">🍋</span></div></div><div class=\"kg-bookmark-thumbnail\"><img src=\"__GHOST_URL__/content/images/thumbnail/intro-shipmas.png\" alt=\"\" onerror=\"this.style.display = 'none'\"></div></a></figure><h2 id=\"features\">Features</h2><p>Beautiful 12-day countdown grid, dark mode by default, festive snowflake animation, and responsive design.</p><h2 id=\"get-the-theme\">Get the Theme</h2><p>This theme is free and open source. Fork it, customize it, and run your own 12 Days of Shipmas!</p><figure class=\"kg-card kg-bookmark-card\"><a class=\"kg-bookmark-container\" href=\"https://github.com/12-days-of-shipmas/shipmas-ghost-theme\"><div class=\"kg-bookmark-content\"><div class=\"kg-bookmark-title\">GitHub - 12-days-of-shipmas/shipmas-ghost-theme: A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support</div><div class=\"kg-bookmark-description\">A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support - 12-days-of-shipmas/shipmas-ghost-theme</div><div class=\"kg-bookmark-metadata\"><img class=\"kg-bookmark-icon\" src=\"__GHOST_URL__/content/images/icon/pinned-octocat-093da3e6fa40.svg\" alt=\"\"><span class=\"kg-bookmark-author\">GitHub</span><span class=\"kg-bookmark-publisher\">12-days-of-shipmas</span></div></div><div class=\"kg-bookmark-thumbnail\"><img src=\"__GHOST_URL__/content/images/thumbnail/shipmas-ghost-theme\" alt=\"\" onerror=\"this.style.display = 'none'\"></div></a></figure><p>If you choose to take part, let us know over on x :) </p><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">i'll mainly use claude code, the 👑 of ai coding<br><br>(if anyone would like a week pass dm i have 3 available) <br><br>and i'll post my updates to this thread + <a href=\"https://t.co/dfPqeIylO1\">https://t.co/dfPqeIylO1</a> <br><br>if you'd like to see some bts / have any questions please feel free to reach out :)<br><br>also ft. nano…</p>— 🍋 (@humanwritten_) <a href=\"https://twitter.com/humanwritten_/status/2005393222680428579?ref_src=twsrc%5Etfw\">December 28, 2025</a></blockquote>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></figure>",
+            "comment_id": "a00000000000000000000001",
+            "plaintext": "What apple took away I'd like to bring back :)\n\n\nWhat is 12 Days of Shipmas?\n\n12 Days of Shipmas is a challenge to ship 12 projects in 12 days during the holiday season. Each day, you build and launch something new.\n\nThis site uses the Shipmas Ghost Theme - an open-source advent-style countdown theme for makers and builders.\n\nLearn more here:\n\nThe 12 Days of ShipmasWhat apple took away I’d like to bring back :)humanwritten.ai🍋\n\n\nFeatures\n\nBeautiful 12-day countdown grid, dark mode by default, festive snowflake animation, and responsive design.\n\n\nGet the Theme\n\nThis theme is free and open source. Fork it, customize it, and run your own 12 Days of Shipmas!\n\nGitHub - 12-days-of-shipmas/shipmas-ghost-theme: A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode supportA Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support - 12-days-of-shipmas/shipmas-ghost-themeGitHub12-days-of-shipmas\n\nIf you choose to take part, let us know over on x :)\n\ni'll mainly use claude code, the 👑 of ai coding\n\n(if anyone would like a week pass dm i have 3 available)\n\nand i'll post my updates to this thread + https://t.co/dfPqeIylO1\n\nif you'd like to see some bts / have any questions please feel free to reach out :)\n\nalso ft. nano…\n\n— 🍋 (@humanwritten_) December 28, 2025\n",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "published",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-29 01:16:55",
+            "published_at": "2025-12-01 00:00:00",
+            "custom_excerpt": "Ship 12 projects in 12 days this holiday season",
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1514",
+            "uuid": "d4485cef-e8f8-49fd-a30b-441be85f28b0",
+            "title": "12 Days of Shipmas",
+            "slug": "12-days",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": null,
+            "comment_id": "a00000000000000000000002",
+            "plaintext": null,
+            "feature_image": null,
+            "featured": 0,
+            "type": "page",
+            "status": "published",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-01 00:01:00",
+            "updated_at": "2025-12-01 00:01:00",
+            "published_at": "2025-12-01 00:01:00",
+            "custom_excerpt": "Ship 12 projects in 12 days this holiday season",
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": "custom-12-days",
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1515",
+            "uuid": "8f84a47c-7894-4452-ab1f-dc4e330a8459",
+            "title": "About",
+            "slug": "about",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What is 12 Days of Shipmas?\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"12 Days of Shipmas is a challenge to ship 12 projects in 12 days during the holiday season. Each day, you build and launch something new.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This site uses the Shipmas Ghost Theme - an open-source advent-style countdown theme for makers and builders.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Learn more here: \",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"bookmark\",\"version\":1,\"url\":\"https://humanwritten.ai/welcome-12-days-shipmas/\",\"metadata\":{\"icon\":\"__GHOST_URL__/content/images/icon/manifestvibes-2-1-1-2.png\",\"title\":\"The 12 Days of Shipmas\",\"description\":\"What apple took away I’d like to bring back :)\",\"author\":\"🍋\",\"publisher\":\"humanwritten.ai\",\"thumbnail\":\"__GHOST_URL__/content/images/thumbnail/intro-shipmas.png\"},\"caption\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Features\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Beautiful 12-day countdown grid, dark mode by default, festive snowflake animation, and responsive design.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Get the Theme\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This theme is free and open source. Fork it, customize it, and run your own 12 Days of Shipmas!\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"bookmark\",\"version\":1,\"url\":\"https://github.com/12-days-of-shipmas/shipmas-ghost-theme\",\"metadata\":{\"icon\":\"__GHOST_URL__/content/images/icon/pinned-octocat-093da3e6fa40.svg\",\"title\":\"GitHub - 12-days-of-shipmas/shipmas-ghost-theme: A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support\",\"description\":\"A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support - 12-days-of-shipmas/shipmas-ghost-theme\",\"author\":\"12-days-of-shipmas\",\"publisher\":\"GitHub\",\"thumbnail\":\"__GHOST_URL__/content/images/thumbnail/shipmas-ghost-theme\"},\"caption\":\"\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"If you choose to take part, let us know over on x :) \",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"type\":\"embed\",\"version\":1,\"url\":\"https://x.com/humanwritten_/status/2005393222680428579\",\"embedType\":\"twitter\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">i&#39;ll mainly use claude code, the 👑 of ai coding<br><br>(if anyone would like a week pass dm i have 3 available) <br><br>and i&#39;ll post my updates to this thread + <a href=\\\"https://t.co/dfPqeIylO1\\\">https://t.co/dfPqeIylO1</a> <br><br>if you&#39;d like to see some bts / have any questions please feel free to reach out :)<br><br>also ft. nano…</p>&mdash; 🍋 (@humanwritten_) <a href=\\\"https://twitter.com/humanwritten_/status/2005393222680428579?ref_src=twsrc%5Etfw\\\">December 28, 2025</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\\n\",\"metadata\":{\"url\":\"https://twitter.com/humanwritten_/status/2005393222680428579\",\"author_name\":\"🍋\",\"author_url\":\"https://twitter.com/humanwritten_\",\"html\":\"<blockquote class=\\\"twitter-tweet\\\"><p lang=\\\"en\\\" dir=\\\"ltr\\\">i&#39;ll mainly use claude code, the 👑 of ai coding<br><br>(if anyone would like a week pass dm i have 3 available) <br><br>and i&#39;ll post my updates to this thread + <a href=\\\"https://t.co/dfPqeIylO1\\\">https://t.co/dfPqeIylO1</a> <br><br>if you&#39;d like to see some bts / have any questions please feel free to reach out :)<br><br>also ft. nano…</p>&mdash; 🍋 (@humanwritten_) <a href=\\\"https://twitter.com/humanwritten_/status/2005393222680428579?ref_src=twsrc%5Etfw\\\">December 28, 2025</a></blockquote>\\n<script async src=\\\"https://platform.twitter.com/widgets.js\\\" charset=\\\"utf-8\\\"></script>\\n\\n\",\"width\":550,\"height\":null,\"type\":\"twitter\",\"cache_age\":\"3153600000\",\"provider_name\":\"Twitter\",\"provider_url\":\"https://twitter.com\",\"version\":\"1.0\"},\"caption\":\"\"},{\"children\":[],\"direction\":null,\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<h2 id=\"what-is-12-days-of-shipmas\">What is 12 Days of Shipmas?</h2><p>12 Days of Shipmas is a challenge to ship 12 projects in 12 days during the holiday season. Each day, you build and launch something new.</p><p>This site uses the Shipmas Ghost Theme - an open-source advent-style countdown theme for makers and builders.</p><p>Learn more here: </p><figure class=\"kg-card kg-bookmark-card\"><a class=\"kg-bookmark-container\" href=\"https://humanwritten.ai/welcome-12-days-shipmas/\"><div class=\"kg-bookmark-content\"><div class=\"kg-bookmark-title\">The 12 Days of Shipmas</div><div class=\"kg-bookmark-description\">What apple took away I’d like to bring back :)</div><div class=\"kg-bookmark-metadata\"><img class=\"kg-bookmark-icon\" src=\"__GHOST_URL__/content/images/icon/manifestvibes-2-1-1-2.png\" alt=\"\"><span class=\"kg-bookmark-author\">humanwritten.ai</span><span class=\"kg-bookmark-publisher\">🍋</span></div></div><div class=\"kg-bookmark-thumbnail\"><img src=\"__GHOST_URL__/content/images/thumbnail/intro-shipmas.png\" alt=\"\" onerror=\"this.style.display = 'none'\"></div></a></figure><h2 id=\"features\">Features</h2><p>Beautiful 12-day countdown grid, dark mode by default, festive snowflake animation, and responsive design.</p><h2 id=\"get-the-theme\">Get the Theme</h2><p>This theme is free and open source. Fork it, customize it, and run your own 12 Days of Shipmas!</p><figure class=\"kg-card kg-bookmark-card\"><a class=\"kg-bookmark-container\" href=\"https://github.com/12-days-of-shipmas/shipmas-ghost-theme\"><div class=\"kg-bookmark-content\"><div class=\"kg-bookmark-title\">GitHub - 12-days-of-shipmas/shipmas-ghost-theme: A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support</div><div class=\"kg-bookmark-description\">A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support - 12-days-of-shipmas/shipmas-ghost-theme</div><div class=\"kg-bookmark-metadata\"><img class=\"kg-bookmark-icon\" src=\"__GHOST_URL__/content/images/icon/pinned-octocat-093da3e6fa40.svg\" alt=\"\"><span class=\"kg-bookmark-author\">GitHub</span><span class=\"kg-bookmark-publisher\">12-days-of-shipmas</span></div></div><div class=\"kg-bookmark-thumbnail\"><img src=\"__GHOST_URL__/content/images/thumbnail/shipmas-ghost-theme\" alt=\"\" onerror=\"this.style.display = 'none'\"></div></a></figure><p>If you choose to take part, let us know over on x :) </p><figure class=\"kg-card kg-embed-card\"><blockquote class=\"twitter-tweet\"><p lang=\"en\" dir=\"ltr\">i'll mainly use claude code, the 👑 of ai coding<br><br>(if anyone would like a week pass dm i have 3 available) <br><br>and i'll post my updates to this thread + <a href=\"https://t.co/dfPqeIylO1\">https://t.co/dfPqeIylO1</a> <br><br>if you'd like to see some bts / have any questions please feel free to reach out :)<br><br>also ft. nano…</p>— 🍋 (@humanwritten_) <a href=\"https://twitter.com/humanwritten_/status/2005393222680428579?ref_src=twsrc%5Etfw\">December 28, 2025</a></blockquote>\n<script async=\"\" src=\"https://platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></figure>",
+            "comment_id": "a00000000000000000000003",
+            "plaintext": "What is 12 Days of Shipmas?\n\n12 Days of Shipmas is a challenge to ship 12 projects in 12 days during the holiday season. Each day, you build and launch something new.\n\nThis site uses the Shipmas Ghost Theme - an open-source advent-style countdown theme for makers and builders.\n\nLearn more here:\n\nThe 12 Days of ShipmasWhat apple took away I’d like to bring back :)humanwritten.ai🍋\n\n\nFeatures\n\nBeautiful 12-day countdown grid, dark mode by default, festive snowflake animation, and responsive design.\n\n\nGet the Theme\n\nThis theme is free and open source. Fork it, customize it, and run your own 12 Days of Shipmas!\n\nGitHub - 12-days-of-shipmas/shipmas-ghost-theme: A Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode supportA Ghost theme featuring a 12 Days of Shipmas countdown grid with dark mode support - 12-days-of-shipmas/shipmas-ghost-themeGitHub12-days-of-shipmas\n\nIf you choose to take part, let us know over on x :)\n\ni'll mainly use claude code, the 👑 of ai coding\n\n(if anyone would like a week pass dm i have 3 available)\n\nand i'll post my updates to this thread + https://t.co/dfPqeIylO1\n\nif you'd like to see some bts / have any questions please feel free to reach out :)\n\nalso ft. nano…\n\n— 🍋 (@humanwritten_) December 28, 2025\n",
+            "feature_image": null,
+            "featured": 0,
+            "type": "page",
+            "status": "published",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-01 00:02:00",
+            "updated_at": "2025-12-28 21:40:10",
+            "published_at": "2025-12-01 00:02:00",
+            "custom_excerpt": "Learn about the 12 Days of Shipmas challenge",
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1516",
+            "uuid": "eb59011a-47f7-4191-a443-27137947d428",
+            "title": "Day 1: [Your Project Title]",
+            "slug": "day-1-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 1 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 1 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a00000000000000000000004",
+            "plaintext": "This is Day 1 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "published",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-01 01:00:00",
+            "updated_at": "2025-12-28 20:48:50",
+            "published_at": "2025-12-28 20:48:50",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1517",
+            "uuid": "4cfcaed3-c212-4a1c-b36e-4fe1dea762bd",
+            "title": "Day 2: [Your Project Title]",
+            "slug": "day-2-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 2 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 2 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a00000000000000000000005",
+            "plaintext": "This is Day 2 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-02 01:00:00",
+            "updated_at": "2025-12-29 00:59:09",
+            "published_at": "2025-12-29 00:59:09",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1518",
+            "uuid": "d6062a75-f66e-4653-990b-aceb4d0d19f7",
+            "title": "Day 3: [Your Project Title]",
+            "slug": "day-3-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 3 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 3 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a00000000000000000000006",
+            "plaintext": "This is Day 3 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-03 01:00:00",
+            "updated_at": "2025-12-29 00:59:15",
+            "published_at": "2025-12-29 00:59:15",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1519",
+            "uuid": "88fca8b9-c0e4-4ea5-84c4-7f45be615271",
+            "title": "Day 4: [Your Project Title]",
+            "slug": "day-4-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 4 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 4 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a00000000000000000000007",
+            "plaintext": "This is Day 4 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-04 01:00:00",
+            "updated_at": "2025-12-29 00:59:22",
+            "published_at": "2025-12-29 00:59:22",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb151a",
+            "uuid": "655c75e4-85a3-4243-b825-30d0e1395a1e",
+            "title": "Day 5: [Your Project Title]",
+            "slug": "day-5-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 5 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 5 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a00000000000000000000008",
+            "plaintext": "This is Day 5 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-05 01:00:00",
+            "updated_at": "2025-12-29 00:59:27",
+            "published_at": "2025-12-29 00:59:27",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb151b",
+            "uuid": "28630805-a986-406a-9fa9-5ca2bed55256",
+            "title": "Day 6: [Your Project Title]",
+            "slug": "day-6-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 6 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 6 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a00000000000000000000009",
+            "plaintext": "This is Day 6 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-06 01:00:00",
+            "updated_at": "2025-12-29 00:59:31",
+            "published_at": "2025-12-29 00:59:31",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb151c",
+            "uuid": "9f3dff64-2526-4a14-a5fc-5356b7c2a560",
+            "title": "Day 7: [Your Project Title]",
+            "slug": "day-7-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 7 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 7 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a0000000000000000000000a",
+            "plaintext": "This is Day 7 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-07 01:00:00",
+            "updated_at": "2025-12-29 00:59:35",
+            "published_at": "2025-12-29 00:59:35",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb151d",
+            "uuid": "66597cfc-271f-4ac4-9b10-7037aa53c64d",
+            "title": "Day 8: [Your Project Title]",
+            "slug": "day-8-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 8 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 8 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a0000000000000000000000b",
+            "plaintext": "This is Day 8 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-08 01:00:00",
+            "updated_at": "2025-12-29 00:59:40",
+            "published_at": "2025-12-29 00:59:40",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb151e",
+            "uuid": "e2aeddbb-e859-41ea-89a8-5c6a0145052a",
+            "title": "Day 9: [Your Project Title]",
+            "slug": "day-9-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 9 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 9 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a0000000000000000000000c",
+            "plaintext": "This is Day 9 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-09 01:00:00",
+            "updated_at": "2025-12-29 00:59:45",
+            "published_at": "2025-12-29 00:59:45",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb151f",
+            "uuid": "62a7da38-0d61-4079-8932-11874a5bded2",
+            "title": "Day 10: [Your Project Title]",
+            "slug": "day-10-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 10 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 10 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a0000000000000000000000d",
+            "plaintext": "This is Day 10 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-10 01:00:00",
+            "updated_at": "2025-12-29 00:59:50",
+            "published_at": "2025-12-29 00:59:50",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1520",
+            "uuid": "9ead741d-5a6d-4d17-b596-50bfb3153545",
+            "title": "Day 11: [Your Project Title]",
+            "slug": "day-11-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 11 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 11 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a0000000000000000000000e",
+            "plaintext": "This is Day 11 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-11 01:00:00",
+            "updated_at": "2025-12-29 00:59:55",
+            "published_at": "2025-12-29 00:59:55",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1521",
+            "uuid": "b7b77994-08f9-40b3-a776-12c1981dd5a1",
+            "title": "Day 12: [Your Project Title]",
+            "slug": "day-12-shipmas",
+            "mobiledoc": null,
+            "lexical": "{\"root\":{\"children\":[{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"This is Day 12 of 12 Days of Shipmas. Replace this content with your project details.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"What We Built\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Describe your project here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Lessons Learned\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"extended-heading\",\"version\":1,\"tag\":\"h2\"},{\"children\":[{\"detail\":0,\"format\":0,\"mode\":\"normal\",\"style\":\"\",\"text\":\"Share your insights here.\",\"type\":\"extended-text\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"paragraph\",\"version\":1}],\"direction\":\"ltr\",\"format\":\"\",\"indent\":0,\"type\":\"root\",\"version\":1}}",
+            "html": "<p>This is Day 12 of 12 Days of Shipmas. Replace this content with your project details.</p><h2 id=\"what-we-built\">What We Built</h2><p>Describe your project here.</p><h2 id=\"lessons-learned\">Lessons Learned</h2><p>Share your insights here.</p>",
+            "comment_id": "a0000000000000000000000f",
+            "plaintext": "This is Day 12 of 12 Days of Shipmas. Replace this content with your project details.\n\n\nWhat We Built\n\nDescribe your project here.\n\n\nLessons Learned\n\nShare your insights here.",
+            "feature_image": null,
+            "featured": 0,
+            "type": "post",
+            "status": "draft",
+            "locale": null,
+            "visibility": "public",
+            "email_recipient_filter": "all",
+            "created_at": "2025-12-12 01:00:00",
+            "updated_at": "2025-12-29 01:00:01",
+            "published_at": "2025-12-29 01:00:01",
+            "custom_excerpt": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "custom_template": null,
+            "canonical_url": null,
+            "newsletter_id": null,
+            "show_title_and_feature_image": 1
+          }
+        ],
+        "posts_meta": [],
+        "users": [
+          {
+            "id": "1",
+            "name": "lemon",
+            "slug": "lemon",
+            "password": "$2a$10$RAwOeV51H.hQ/5tAloEmoeEFxL.YgnZSNvflWdiOKJqBXJiuDc7oO",
+            "email": "test@test.com",
+            "profile_image": null,
+            "cover_image": null,
+            "bio": null,
+            "website": null,
+            "location": null,
+            "facebook": null,
+            "twitter": null,
+            "threads": null,
+            "bluesky": null,
+            "mastodon": null,
+            "tiktok": null,
+            "youtube": null,
+            "instagram": null,
+            "linkedin": null,
+            "accessibility": "{\"onboarding\":{\"completedSteps\":[],\"checklistState\":\"started\"},\"nightShift\":true,\"whatsNew\":{\"lastSeenDate\":\"2025-11-26T12:49:28.000+00:00\"}}",
+            "status": "active",
+            "locale": null,
+            "visibility": "public",
+            "meta_title": null,
+            "meta_description": null,
+            "tour": null,
+            "last_seen": "2025-12-29 00:46:50",
+            "comment_notifications": 1,
+            "free_member_signup_notification": 1,
+            "paid_subscription_started_notification": 1,
+            "paid_subscription_canceled_notification": 0,
+            "mention_notifications": 1,
+            "recommendation_notifications": 1,
+            "milestone_notifications": 1,
+            "donation_notifications": 1,
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-29 01:17:52"
+          }
+        ],
+        "posts_authors": [
+          {
+            "id": "6951d1e086c2520001cb1526",
+            "post_id": "6951d1e086c2520001cb1513",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb152b",
+            "post_id": "6951d1e086c2520001cb1514",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb152f",
+            "post_id": "6951d1e086c2520001cb1515",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1536",
+            "post_id": "6951d1e086c2520001cb1516",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb153d",
+            "post_id": "6951d1e086c2520001cb1517",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1543",
+            "post_id": "6951d1e086c2520001cb1518",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1549",
+            "post_id": "6951d1e086c2520001cb1519",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb154f",
+            "post_id": "6951d1e086c2520001cb151a",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1555",
+            "post_id": "6951d1e086c2520001cb151b",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb155b",
+            "post_id": "6951d1e086c2520001cb151c",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1561",
+            "post_id": "6951d1e086c2520001cb151d",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1567",
+            "post_id": "6951d1e086c2520001cb151e",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb156d",
+            "post_id": "6951d1e086c2520001cb151f",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1573",
+            "post_id": "6951d1e086c2520001cb1520",
+            "author_id": "1",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1579",
+            "post_id": "6951d1e086c2520001cb1521",
+            "author_id": "1",
+            "sort_order": 0
+          }
+        ],
+        "roles": [
+          {
+            "id": "69518f94e02a9300014a43d5",
+            "name": "Administrator",
+            "description": "Administrators",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43d6",
+            "name": "Editor",
+            "description": "Editors",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43d7",
+            "name": "Author",
+            "description": "Authors",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43d8",
+            "name": "Contributor",
+            "description": "Contributors",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43d9",
+            "name": "Owner",
+            "description": "Blog Owner",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43da",
+            "name": "Admin Integration",
+            "description": "External Apps",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43db",
+            "name": "Ghost Explore Integration",
+            "description": "Internal Integration for the Ghost Explore directory",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43dc",
+            "name": "Self-Serve Migration Integration",
+            "description": "Internal Integration for the Self-Serve migration tool",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43dd",
+            "name": "DB Backup Integration",
+            "description": "Internal DB Backup Client",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43de",
+            "name": "Scheduler Integration",
+            "description": "Internal Scheduler Client",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          },
+          {
+            "id": "69518f94e02a9300014a43df",
+            "name": "Super Editor",
+            "description": "Super Editors",
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12"
+          }
+        ],
+        "roles_users": [
+          {
+            "id": "69518f94e02a9300014a43e0",
+            "role_id": "69518f94e02a9300014a43d9",
+            "user_id": "1"
+          }
+        ],
+        "settings": [
+          {
+            "id": "69518f95e02a9300014a460e",
+            "group": "core",
+            "key": "last_mentions_report_email_timestamp",
+            "value": null,
+            "type": "number",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a460f",
+            "group": "core",
+            "key": "db_hash",
+            "value": "6c12f7a9-d93b-4085-a3ed-fce7544ce21b",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4610",
+            "group": "core",
+            "key": "routes_hash",
+            "value": "3d180d52c663d173a6be791ef411ed01",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4611",
+            "group": "core",
+            "key": "next_update_check",
+            "value": null,
+            "type": "number",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-29 01:16:22"
+          },
+          {
+            "id": "69518f95e02a9300014a4612",
+            "group": "core",
+            "key": "notifications",
+            "value": "[{\"dismissible\":true,\"location\":\"bottom\",\"status\":\"alert\",\"id\":\"695190aae02a9300014a469e\",\"createdAtVersion\":\"5.130.5\",\"type\":\"warn\",\"message\":\"Ghost is currently unable to send email. See https://ghost.org/docs/concepts/config/#mail for instructions.\",\"seen\":false,\"addedAt\":\"2025-12-28T20:18:50.757Z\"}]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:18:50"
+          },
+          {
+            "id": "69518f95e02a9300014a4613",
+            "group": "core",
+            "key": "version_notifications",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4614",
+            "group": "core",
+            "key": "admin_session_secret",
+            "value": "2ae034071336b59ccb7da9497264c60c1499ae3d73760f35f0cf965006db5ac7",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4615",
+            "group": "core",
+            "key": "theme_session_secret",
+            "value": "d7cffb1877eaed60a44e1ab7bb8fd117e7d905f91a7eedbd43b528a0a761ac93",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4616",
+            "group": "core",
+            "key": "ghost_public_key",
+            "value": "-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBAI3po8/W+dd6O2iPbyGMtpIKnIR0anl9c9addO4SZq/tePlDCZ1zCo3rdSB/CmRw\nDkO5qfDwETc+B5Z/BDoRKSWmP1hxGaHVL8dtRd/Zwt+D7bDLTa3QX1eXdQaP+x21WPjGO41d\nofOX30ok4DuMdHWFCYYXDNci7RpYtjWpGSbFAgMBAAE=\n-----END RSA PUBLIC KEY-----\n",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4617",
+            "group": "core",
+            "key": "ghost_private_key",
+            "value": "-----BEGIN RSA PRIVATE KEY-----\nMIICXAIBAAKBgQCN6aPP1vnXejtoj28hjLaSCpyEdGp5fXPWnXTuEmav7Xj5QwmdcwqN63Ug\nfwpkcA5Duanw8BE3PgeWfwQ6ESklpj9YcRmh1S/HbUXf2cLfg+2wy02t0F9Xl3UGj/sdtVj4\nxjuNXaHzl99KJOA7jHR1hQmGFwzXIu0aWLY1qRkmxQIDAQABAoGAXTPPVFdaKzyp+9gIIr6p\nwWyasxtKOpQ8Gf27qAgJzQ1n4D04+WFu0xqLCFanWqOFmtE7XXQtulxQ23R8MC7JGGUUktnV\nPol1AssVFFvhFI7yVdQNmt7YaHoqSatGNlk3dnAuzRGAuiHEG1VVWs5Xl8e7yI44FVMChUUf\n6Ekv9YECQQDhkdqZScdjcQvcLjdEn29uNqdOUH91lvAkSxUEkBI0+jMP/8sQOWeI4y7CdwLe\nCP1/VNW1unodjVFl6XNSoWPxAkEAoQ6nPIeD8vF3A2VKfA3wuJfCcmTCpsA5YC+qizd0/i03\n4rb2sxpfe9NuIcFyzckVptS+yRG6CUPOLzuv1X80FQJAZyVa4F1sX3yB/9ziSO7e9XboaldE\n8XBjvzTWF5AJw0/lqZs+L90QCvhXmXTySrWxtVgFoWP0Ey9b2U42/cHvAQJAT/oW0df5jgqa\nLvV9p1zEzOWPiX6/qk6KL1l8NuWzEwUhW1O/7fCKudKkPd7yQ343YkEC/JXw6+jf2lSpXDtu\ngQJBAMWKXBPmvLgTpNU8ysTiAQdsnsFn573+3TKEfs+bJ6O693c+BY3zKkZ3JEclOAvFjAG1\nO6ly8sR7JuOj4gJyZFc=\n-----END RSA PRIVATE KEY-----\n",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4618",
+            "group": "core",
+            "key": "members_public_key",
+            "value": "-----BEGIN RSA PUBLIC KEY-----\nMIGJAoGBAOCkI2PrwOunNEDxHeAEeNyIGK/jkdFEWR8GMqDztm3AXER7tMTuqqUZ2w8gIIR0\nEq/YLLv7agUx6AcNSU5POXoHJVKG4DPvpBvCNWKD5KNBwBmsf3uUBZ+xkWcREgHquoxdYgZY\nN4hLC/Fsw0InKHaZ4YVv7pY81/IeY3NnUg1tAgMBAAE=\n-----END RSA PUBLIC KEY-----\n",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4619",
+            "group": "core",
+            "key": "members_private_key",
+            "value": "-----BEGIN RSA PRIVATE KEY-----\nMIICXQIBAAKBgQDgpCNj68DrpzRA8R3gBHjciBiv45HRRFkfBjKg87ZtwFxEe7TE7qqlGdsP\nICCEdBKv2Cy7+2oFMegHDUlOTzl6ByVShuAz76QbwjVig+SjQcAZrH97lAWfsZFnERIB6rqM\nXWIGWDeISwvxbMNCJyh2meGFb+6WPNfyHmNzZ1INbQIDAQABAoGAEHoZmm+lY+OMwqKs5UyO\nrOZSoTwY6vePbeYfeozFucEdQ2yrcrJq09dUqQRbPjvhTwKVLWigeycQ9Mt1sAfBmF2VF7k2\ntxzPGlzpy363D4l5NDWQuwId2cyiz4jrn/txAC7NKoXwsQsoE7kwijI3UA4wyS0pWH8duzI2\nI8Z0JGUCQQDy/1RNTBq6sDVRBHWCMtq5zFJ5HuB7nSTVI4wuhSDpjGgQMo8T58DbddOD1Akm\n7GPDkZSlWZ16w17IaUMtSOcrAkEA7Klbx1//PlBzCUfpF3/sLxUUbwbkiwWWsBaBsi+G5Hnx\n018Bg005QFeZ3/k21JdW3wBbaXgSdL2y62USvqWRxwJBAMAtrQeA8/bH2zLa+vBgtdmRvXwr\nLlC1JGcouPolsbTjpX2B7uRIOp+WXRT6gc510CTgoxXufPyVPQX1MfrDmIcCQQCfW8MjU67p\n5P4xR6zbWBZP9d/Wi0ulmVPIqr8Wnw40FzERZa39Hijo/JPuzz9uk6G5c+IZ+PJkjcBG5b5j\nhdXNAkBe7B79QtDoPJOjt090v5cZlIIzNUSY2JmDZvSSq4pFPesDm46O1/3LVo7ickOP6DpY\nDng7DmgskVTIw5aYkTTm\n-----END RSA PRIVATE KEY-----\n",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a461a",
+            "group": "core",
+            "key": "members_email_auth_secret",
+            "value": "c3e8adc849ca8aa21750189943ab6dca0115f46fc60de1816f8577992f35bb71d9c9f2068b2ea32dcec9c756d66bd068a8467503c1a8087ed494ccdcf6e0b240",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a461d",
+            "group": "core",
+            "key": "site_uuid",
+            "value": "a48f09cb-25a0-44e9-85f7-8c2473bf5f81",
+            "type": "string",
+            "flags": "PUBLIC,RO",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a461e",
+            "group": "site",
+            "key": "title",
+            "value": "12 days demo",
+            "type": "string",
+            "flags": "PUBLIC",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:18:50"
+          },
+          {
+            "id": "69518f95e02a9300014a461f",
+            "group": "site",
+            "key": "description",
+            "value": "Thoughts, stories and ideas.",
+            "type": "string",
+            "flags": "PUBLIC",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:18:50"
+          },
+          {
+            "id": "69518f95e02a9300014a4620",
+            "group": "site",
+            "key": "heading_font",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4621",
+            "group": "site",
+            "key": "body_font",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4622",
+            "group": "site",
+            "key": "logo",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4623",
+            "group": "site",
+            "key": "cover_image",
+            "value": "https://static.ghost.org/v5.0.0/images/publication-cover.jpg",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4624",
+            "group": "site",
+            "key": "icon",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4625",
+            "group": "site",
+            "key": "accent_color",
+            "value": "#FF1A75",
+            "type": "string",
+            "flags": "PUBLIC",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4626",
+            "group": "site",
+            "key": "locale",
+            "value": "en",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4627",
+            "group": "site",
+            "key": "timezone",
+            "value": "Etc/UTC",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4628",
+            "group": "site",
+            "key": "codeinjection_head",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4629",
+            "group": "site",
+            "key": "codeinjection_foot",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a462a",
+            "group": "site",
+            "key": "facebook",
+            "value": "ghost",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a462b",
+            "group": "site",
+            "key": "twitter",
+            "value": "@ghost",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a462c",
+            "group": "site",
+            "key": "navigation",
+            "value": "[{\"url\":\"/\",\"label\":\"Home\"},{\"url\":\"/12-days/\",\"label\":\"12 Days\"},{\"url\":\"/about/\",\"label\":\"About\"}]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-29 00:57:58"
+          },
+          {
+            "id": "69518f95e02a9300014a462d",
+            "group": "site",
+            "key": "secondary_navigation",
+            "value": "[{\"label\":\"Sign up\",\"url\":\"#/portal/\"}]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a462e",
+            "group": "site",
+            "key": "meta_title",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a462f",
+            "group": "site",
+            "key": "meta_description",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4630",
+            "group": "site",
+            "key": "og_image",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4631",
+            "group": "site",
+            "key": "og_title",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4632",
+            "group": "site",
+            "key": "og_description",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4633",
+            "group": "site",
+            "key": "twitter_image",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4634",
+            "group": "site",
+            "key": "twitter_title",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4635",
+            "group": "site",
+            "key": "twitter_description",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4636",
+            "group": "theme",
+            "key": "active_theme",
+            "value": "shipmas-theme",
+            "type": "string",
+            "flags": "RO",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-29 00:56:49"
+          },
+          {
+            "id": "69518f95e02a9300014a4637",
+            "group": "private",
+            "key": "is_private",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4638",
+            "group": "private",
+            "key": "password",
+            "value": "",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4639",
+            "group": "private",
+            "key": "public_hash",
+            "value": "fafc52b48197a0bc78f6d918c906ea",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a463a",
+            "group": "members",
+            "key": "default_content_visibility",
+            "value": "public",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a463b",
+            "group": "members",
+            "key": "default_content_visibility_tiers",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a463c",
+            "group": "members",
+            "key": "members_signup_access",
+            "value": "all",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a463d",
+            "group": "members",
+            "key": "members_support_address",
+            "value": "noreply",
+            "type": "string",
+            "flags": "PUBLIC,RO",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4640",
+            "group": "members",
+            "key": "stripe_plans",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4643",
+            "group": "members",
+            "key": "stripe_connect_livemode",
+            "value": null,
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4644",
+            "group": "members",
+            "key": "stripe_connect_display_name",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4646",
+            "group": "members",
+            "key": "members_monthly_price_id",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4647",
+            "group": "members",
+            "key": "members_yearly_price_id",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4648",
+            "group": "members",
+            "key": "members_track_sources",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4649",
+            "group": "members",
+            "key": "blocked_email_domains",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a464a",
+            "group": "portal",
+            "key": "portal_name",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a464b",
+            "group": "portal",
+            "key": "portal_button",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a464c",
+            "group": "portal",
+            "key": "portal_plans",
+            "value": "[\"free\"]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a464d",
+            "group": "portal",
+            "key": "portal_default_plan",
+            "value": "yearly",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a464e",
+            "group": "portal",
+            "key": "portal_products",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a464f",
+            "group": "portal",
+            "key": "portal_button_style",
+            "value": "icon-and-text",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4650",
+            "group": "portal",
+            "key": "portal_button_icon",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4651",
+            "group": "portal",
+            "key": "portal_button_signup_text",
+            "value": "Subscribe",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4652",
+            "group": "portal",
+            "key": "portal_signup_terms_html",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4653",
+            "group": "portal",
+            "key": "portal_signup_checkbox_required",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4654",
+            "group": "email",
+            "key": "mailgun_domain",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4655",
+            "group": "email",
+            "key": "mailgun_api_key",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4656",
+            "group": "email",
+            "key": "mailgun_base_url",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4657",
+            "group": "email",
+            "key": "email_track_opens",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4658",
+            "group": "email",
+            "key": "email_track_clicks",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a465a",
+            "group": "amp",
+            "key": "amp",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a465b",
+            "group": "amp",
+            "key": "amp_gtag_id",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a465c",
+            "group": "firstpromoter",
+            "key": "firstpromoter",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a465d",
+            "group": "firstpromoter",
+            "key": "firstpromoter_id",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a465e",
+            "group": "labs",
+            "key": "labs",
+            "value": "{}",
+            "type": "object",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a465f",
+            "group": "slack",
+            "key": "slack_url",
+            "value": "",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4660",
+            "group": "slack",
+            "key": "slack_username",
+            "value": "Ghost",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4661",
+            "group": "unsplash",
+            "key": "unsplash",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 21:41:26"
+          },
+          {
+            "id": "69518f95e02a9300014a4662",
+            "group": "views",
+            "key": "shared_views",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4663",
+            "group": "editor",
+            "key": "editor_default_email_recipients",
+            "value": "visibility",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4664",
+            "group": "editor",
+            "key": "editor_default_email_recipients_filter",
+            "value": "all",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4665",
+            "group": "announcement",
+            "key": "announcement_content",
+            "value": null,
+            "type": "string",
+            "flags": "PUBLIC",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4666",
+            "group": "announcement",
+            "key": "announcement_visibility",
+            "value": "[]",
+            "type": "array",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4667",
+            "group": "announcement",
+            "key": "announcement_background",
+            "value": "dark",
+            "type": "string",
+            "flags": "PUBLIC",
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4668",
+            "group": "comments",
+            "key": "comments_enabled",
+            "value": "off",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4669",
+            "group": "analytics",
+            "key": "outbound_link_tagging",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a466a",
+            "group": "analytics",
+            "key": "web_analytics",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a466b",
+            "group": "pintura",
+            "key": "pintura",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a466c",
+            "group": "pintura",
+            "key": "pintura_js_url",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a466d",
+            "group": "pintura",
+            "key": "pintura_css_url",
+            "value": null,
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a466e",
+            "group": "donations",
+            "key": "donations_currency",
+            "value": "USD",
+            "type": "string",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a466f",
+            "group": "donations",
+            "key": "donations_suggested_amount",
+            "value": "500",
+            "type": "number",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4670",
+            "group": "recommendations",
+            "key": "recommendations_enabled",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4671",
+            "group": "security",
+            "key": "require_email_mfa",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4672",
+            "group": "social_web",
+            "key": "social_web",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4673",
+            "group": "explore",
+            "key": "explore_ping",
+            "value": "true",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          },
+          {
+            "id": "69518f95e02a9300014a4674",
+            "group": "explore",
+            "key": "explore_ping_growth",
+            "value": "false",
+            "type": "boolean",
+            "flags": null,
+            "created_at": "2025-12-28 20:14:13",
+            "updated_at": "2025-12-28 20:14:13"
+          }
+        ],
+        "tags": [
+          {
+            "id": "6951d1e086c2520001cb14fe",
+            "name": "12-days-of-shipmas",
+            "slug": "12-days-of-shipmas",
+            "description": "Posts for the 12 Days of Shipmas advent series",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb14ff",
+            "name": "shipmas-intro",
+            "slug": "shipmas-intro",
+            "description": "Welcome/intro post for the shipmas section",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1500",
+            "name": "day-1",
+            "slug": "day-1",
+            "description": "Day 1 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1501",
+            "name": "day-2",
+            "slug": "day-2",
+            "description": "Day 2 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1502",
+            "name": "day-3",
+            "slug": "day-3",
+            "description": "Day 3 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1503",
+            "name": "day-4",
+            "slug": "day-4",
+            "description": "Day 4 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1504",
+            "name": "day-5",
+            "slug": "day-5",
+            "description": "Day 5 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1505",
+            "name": "day-6",
+            "slug": "day-6",
+            "description": "Day 6 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1506",
+            "name": "day-7",
+            "slug": "day-7",
+            "description": "Day 7 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1507",
+            "name": "day-8",
+            "slug": "day-8",
+            "description": "Day 8 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1508",
+            "name": "day-9",
+            "slug": "day-9",
+            "description": "Day 9 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb1509",
+            "name": "day-10",
+            "slug": "day-10",
+            "description": "Day 10 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb150a",
+            "name": "day-11",
+            "slug": "day-11",
+            "description": "Day 11 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb150b",
+            "name": "day-12",
+            "slug": "day-12",
+            "description": "Day 12 of the 12 Days of Shipmas",
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "public",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-01 00:00:00",
+            "updated_at": "2025-12-01 00:00:00"
+          },
+          {
+            "id": "6951d1e086c2520001cb150c",
+            "name": "#Import 2025-12-28 20:47",
+            "slug": "hash-import-2025-12-28-20-47",
+            "description": null,
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "internal",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-28 20:47:45",
+            "updated_at": "2025-12-28 20:47:45"
+          },
+          {
+            "id": "6951d1e086c2520001cb150d",
+            "name": "#Import 2025-12-28 21:41",
+            "slug": "hash-import-2025-12-28-21-41",
+            "description": null,
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "internal",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-28 21:41:26",
+            "updated_at": "2025-12-28 21:41:26"
+          },
+          {
+            "id": "6951d1e086c2520001cb150e",
+            "name": "#Import 2025-12-29 00:57",
+            "slug": "hash-import-2025-12-29-00-57",
+            "description": null,
+            "feature_image": null,
+            "parent_id": null,
+            "visibility": "internal",
+            "og_image": null,
+            "og_title": null,
+            "og_description": null,
+            "twitter_image": null,
+            "twitter_title": null,
+            "twitter_description": null,
+            "meta_title": null,
+            "meta_description": null,
+            "codeinjection_head": null,
+            "codeinjection_foot": null,
+            "canonical_url": null,
+            "accent_color": null,
+            "created_at": "2025-12-29 00:57:04",
+            "updated_at": "2025-12-29 00:57:04"
+          }
+        ],
+        "posts_tags": [
+          {
+            "id": "6951d1e086c2520001cb1522",
+            "post_id": "6951d1e086c2520001cb1513",
+            "tag_id": "6951d1e086c2520001cb14ff",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1523",
+            "post_id": "6951d1e086c2520001cb1513",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1524",
+            "post_id": "6951d1e086c2520001cb1513",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb1525",
+            "post_id": "6951d1e086c2520001cb1513",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb1528",
+            "post_id": "6951d1e086c2520001cb1514",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1529",
+            "post_id": "6951d1e086c2520001cb1514",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb152a",
+            "post_id": "6951d1e086c2520001cb1514",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb152d",
+            "post_id": "6951d1e086c2520001cb1515",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb152c",
+            "post_id": "6951d1e086c2520001cb1515",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb152e",
+            "post_id": "6951d1e086c2520001cb1515",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb1531",
+            "post_id": "6951d1e086c2520001cb1516",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1533",
+            "post_id": "6951d1e086c2520001cb1516",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb1534",
+            "post_id": "6951d1e086c2520001cb1516",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb1532",
+            "post_id": "6951d1e086c2520001cb1516",
+            "tag_id": "6951d1e086c2520001cb1500",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1535",
+            "post_id": "6951d1e086c2520001cb1516",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e086c2520001cb1538",
+            "post_id": "6951d1e086c2520001cb1517",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1539",
+            "post_id": "6951d1e086c2520001cb1517",
+            "tag_id": "6951d1e086c2520001cb1501",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb153b",
+            "post_id": "6951d1e086c2520001cb1517",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb153c",
+            "post_id": "6951d1e086c2520001cb1517",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e086c2520001cb153a",
+            "post_id": "6951d1e086c2520001cb1517",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb153f",
+            "post_id": "6951d1e086c2520001cb1518",
+            "tag_id": "6951d1e086c2520001cb1502",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1540",
+            "post_id": "6951d1e086c2520001cb1518",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb153e",
+            "post_id": "6951d1e086c2520001cb1518",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1541",
+            "post_id": "6951d1e086c2520001cb1518",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb1542",
+            "post_id": "6951d1e086c2520001cb1518",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e086c2520001cb1544",
+            "post_id": "6951d1e086c2520001cb1519",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1545",
+            "post_id": "6951d1e086c2520001cb1519",
+            "tag_id": "6951d1e086c2520001cb1503",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb1547",
+            "post_id": "6951d1e086c2520001cb1519",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb1546",
+            "post_id": "6951d1e086c2520001cb1519",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb1548",
+            "post_id": "6951d1e086c2520001cb1519",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e086c2520001cb154a",
+            "post_id": "6951d1e086c2520001cb151a",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb154b",
+            "post_id": "6951d1e086c2520001cb151a",
+            "tag_id": "6951d1e086c2520001cb1504",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e086c2520001cb154c",
+            "post_id": "6951d1e086c2520001cb151a",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb154d",
+            "post_id": "6951d1e086c2520001cb151a",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb154e",
+            "post_id": "6951d1e086c2520001cb151a",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e086c2520001cb1550",
+            "post_id": "6951d1e086c2520001cb151b",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1552",
+            "post_id": "6951d1e086c2520001cb151b",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e086c2520001cb1553",
+            "post_id": "6951d1e086c2520001cb151b",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e086c2520001cb1554",
+            "post_id": "6951d1e086c2520001cb151b",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e086c2520001cb1551",
+            "post_id": "6951d1e086c2520001cb151b",
+            "tag_id": "6951d1e086c2520001cb1505",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb1557",
+            "post_id": "6951d1e086c2520001cb151c",
+            "tag_id": "6951d1e086c2520001cb1506",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb1558",
+            "post_id": "6951d1e086c2520001cb151c",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e186c2520001cb155a",
+            "post_id": "6951d1e086c2520001cb151c",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e186c2520001cb1559",
+            "post_id": "6951d1e086c2520001cb151c",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e186c2520001cb1556",
+            "post_id": "6951d1e086c2520001cb151c",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb155c",
+            "post_id": "6951d1e086c2520001cb151d",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1560",
+            "post_id": "6951d1e086c2520001cb151d",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e186c2520001cb155d",
+            "post_id": "6951d1e086c2520001cb151d",
+            "tag_id": "6951d1e086c2520001cb1507",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb155f",
+            "post_id": "6951d1e086c2520001cb151d",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e186c2520001cb155e",
+            "post_id": "6951d1e086c2520001cb151d",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e186c2520001cb1562",
+            "post_id": "6951d1e086c2520001cb151e",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1564",
+            "post_id": "6951d1e086c2520001cb151e",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e186c2520001cb1566",
+            "post_id": "6951d1e086c2520001cb151e",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e186c2520001cb1565",
+            "post_id": "6951d1e086c2520001cb151e",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e186c2520001cb1563",
+            "post_id": "6951d1e086c2520001cb151e",
+            "tag_id": "6951d1e086c2520001cb1508",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb1569",
+            "post_id": "6951d1e086c2520001cb151f",
+            "tag_id": "6951d1e086c2520001cb1509",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb1568",
+            "post_id": "6951d1e086c2520001cb151f",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb156a",
+            "post_id": "6951d1e086c2520001cb151f",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e186c2520001cb156b",
+            "post_id": "6951d1e086c2520001cb151f",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e186c2520001cb156c",
+            "post_id": "6951d1e086c2520001cb151f",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e186c2520001cb156f",
+            "post_id": "6951d1e086c2520001cb1520",
+            "tag_id": "6951d1e086c2520001cb150a",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb1570",
+            "post_id": "6951d1e086c2520001cb1520",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e186c2520001cb1572",
+            "post_id": "6951d1e086c2520001cb1520",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          },
+          {
+            "id": "6951d1e186c2520001cb156e",
+            "post_id": "6951d1e086c2520001cb1520",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1571",
+            "post_id": "6951d1e086c2520001cb1520",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e186c2520001cb1574",
+            "post_id": "6951d1e086c2520001cb1521",
+            "tag_id": "6951d1e086c2520001cb14fe",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e186c2520001cb1575",
+            "post_id": "6951d1e086c2520001cb1521",
+            "tag_id": "6951d1e086c2520001cb150b",
+            "sort_order": 1
+          },
+          {
+            "id": "6951d1e186c2520001cb1576",
+            "post_id": "6951d1e086c2520001cb1521",
+            "tag_id": "6951d1e086c2520001cb150c",
+            "sort_order": 2
+          },
+          {
+            "id": "6951d1e186c2520001cb1577",
+            "post_id": "6951d1e086c2520001cb1521",
+            "tag_id": "6951d1e086c2520001cb150d",
+            "sort_order": 3
+          },
+          {
+            "id": "6951d1e186c2520001cb1578",
+            "post_id": "6951d1e086c2520001cb1521",
+            "tag_id": "6951d1e086c2520001cb150e",
+            "sort_order": 4
+          }
+        ],
+        "products": [
+          {
+            "id": "69518f94e02a9300014a43e3",
+            "name": "Free",
+            "slug": "free",
+            "active": 1,
+            "welcome_page_url": null,
+            "visibility": "public",
+            "trial_days": 0,
+            "description": null,
+            "type": "free",
+            "currency": null,
+            "monthly_price": null,
+            "yearly_price": null,
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:14:12",
+            "monthly_price_id": null,
+            "yearly_price_id": null
+          },
+          {
+            "id": "69518f94e02a9300014a43e4",
+            "name": "12 days demo",
+            "slug": "default-product",
+            "active": 1,
+            "welcome_page_url": null,
+            "visibility": "public",
+            "trial_days": 0,
+            "description": null,
+            "type": "paid",
+            "currency": "USD",
+            "monthly_price": 500,
+            "yearly_price": 5000,
+            "created_at": "2025-12-28 20:14:12",
+            "updated_at": "2025-12-28 20:18:50",
+            "monthly_price_id": null,
+            "yearly_price_id": null
+          }
+        ],
+        "offers": [],
+        "benefits": [],
+        "products_benefits": [],
+        "posts_products": [
+          {
+            "id": "6951d1e086c2520001cb1527",
+            "post_id": "6951d1e086c2520001cb1513",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1530",
+            "post_id": "6951d1e086c2520001cb1515",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d1e086c2520001cb1537",
+            "post_id": "6951d1e086c2520001cb1516",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d25d86c2520001cb159f",
+            "post_id": "6951d1e086c2520001cb1517",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d26386c2520001cb15a2",
+            "post_id": "6951d1e086c2520001cb1518",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d26a86c2520001cb15a5",
+            "post_id": "6951d1e086c2520001cb1519",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d26f86c2520001cb15a8",
+            "post_id": "6951d1e086c2520001cb151a",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d27386c2520001cb15ab",
+            "post_id": "6951d1e086c2520001cb151b",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d27786c2520001cb15ae",
+            "post_id": "6951d1e086c2520001cb151c",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d27c86c2520001cb15b1",
+            "post_id": "6951d1e086c2520001cb151d",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d28186c2520001cb15b4",
+            "post_id": "6951d1e086c2520001cb151e",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d28686c2520001cb15b7",
+            "post_id": "6951d1e086c2520001cb151f",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d28c86c2520001cb15ba",
+            "post_id": "6951d1e086c2520001cb1520",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          },
+          {
+            "id": "6951d29186c2520001cb15bd",
+            "post_id": "6951d1e086c2520001cb1521",
+            "product_id": "69518f94e02a9300014a43e4",
+            "sort_order": 0
+          }
+        ],
+        "offer_redemptions": [],
+        "stripe_products": [],
+        "stripe_prices": [],
+        "snippets": [],
+        "custom_theme_settings": [
+          {
+            "id": "69518f95e02a9300014a4681",
+            "theme": "source",
+            "key": "navigation_layout",
+            "type": "select",
+            "value": "Logo in the middle"
+          },
+          {
+            "id": "69518f95e02a9300014a4682",
+            "theme": "source",
+            "key": "site_background_color",
+            "type": "color",
+            "value": "#ffffff"
+          },
+          {
+            "id": "69518f95e02a9300014a4683",
+            "theme": "source",
+            "key": "header_and_footer_color",
+            "type": "select",
+            "value": "Background color"
+          },
+          {
+            "id": "69518f95e02a9300014a4684",
+            "theme": "source",
+            "key": "title_font",
+            "type": "select",
+            "value": "Modern sans-serif"
+          },
+          {
+            "id": "69518f95e02a9300014a4685",
+            "theme": "source",
+            "key": "body_font",
+            "type": "select",
+            "value": "Modern sans-serif"
+          },
+          {
+            "id": "69518f95e02a9300014a4686",
+            "theme": "source",
+            "key": "signup_heading",
+            "type": "text",
+            "value": null
+          },
+          {
+            "id": "69518f95e02a9300014a4687",
+            "theme": "source",
+            "key": "signup_subheading",
+            "type": "text",
+            "value": null
+          },
+          {
+            "id": "69518f95e02a9300014a4688",
+            "theme": "source",
+            "key": "header_style",
+            "type": "select",
+            "value": "Landing"
+          },
+          {
+            "id": "69518f95e02a9300014a4689",
+            "theme": "source",
+            "key": "header_text",
+            "type": "text",
+            "value": null
+          },
+          {
+            "id": "69518f95e02a9300014a468a",
+            "theme": "source",
+            "key": "background_image",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69518f95e02a9300014a468b",
+            "theme": "source",
+            "key": "show_featured_posts",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "id": "69518f95e02a9300014a468c",
+            "theme": "source",
+            "key": "post_feed_style",
+            "type": "select",
+            "value": "List"
+          },
+          {
+            "id": "69518f95e02a9300014a468d",
+            "theme": "source",
+            "key": "show_images_in_feed",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69518f95e02a9300014a468e",
+            "theme": "source",
+            "key": "show_author",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69518f95e02a9300014a468f",
+            "theme": "source",
+            "key": "show_publish_date",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69518f95e02a9300014a4690",
+            "theme": "source",
+            "key": "show_publication_info_sidebar",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "id": "69518f95e02a9300014a4691",
+            "theme": "source",
+            "key": "show_post_metadata",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69518f95e02a9300014a4692",
+            "theme": "source",
+            "key": "enable_drop_caps_on_posts",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "id": "69518f95e02a9300014a4693",
+            "theme": "source",
+            "key": "show_related_articles",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69519111e02a9300014a46a0",
+            "theme": "shipmas-theme",
+            "key": "navigation_layout",
+            "type": "select",
+            "value": "Logo in the middle"
+          },
+          {
+            "id": "69519112e02a9300014a46a1",
+            "theme": "shipmas-theme",
+            "key": "site_background_color",
+            "type": "color",
+            "value": "#ffffff"
+          },
+          {
+            "id": "69519112e02a9300014a46a2",
+            "theme": "shipmas-theme",
+            "key": "header_and_footer_color",
+            "type": "select",
+            "value": "Background color"
+          },
+          {
+            "id": "69519112e02a9300014a46a3",
+            "theme": "shipmas-theme",
+            "key": "title_font",
+            "type": "select",
+            "value": "Modern sans-serif"
+          },
+          {
+            "id": "69519112e02a9300014a46a4",
+            "theme": "shipmas-theme",
+            "key": "body_font",
+            "type": "select",
+            "value": "Modern sans-serif"
+          },
+          {
+            "id": "69519112e02a9300014a46a5",
+            "theme": "shipmas-theme",
+            "key": "header_style",
+            "type": "select",
+            "value": "Landing"
+          },
+          {
+            "id": "69519112e02a9300014a46a6",
+            "theme": "shipmas-theme",
+            "key": "header_text",
+            "type": "text",
+            "value": null
+          },
+          {
+            "id": "69519112e02a9300014a46a7",
+            "theme": "shipmas-theme",
+            "key": "background_image",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69519112e02a9300014a46a8",
+            "theme": "shipmas-theme",
+            "key": "show_featured_posts",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "id": "69519112e02a9300014a46a9",
+            "theme": "shipmas-theme",
+            "key": "post_feed_style",
+            "type": "select",
+            "value": "List"
+          },
+          {
+            "id": "69519112e02a9300014a46aa",
+            "theme": "shipmas-theme",
+            "key": "show_images_in_feed",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69519112e02a9300014a46ab",
+            "theme": "shipmas-theme",
+            "key": "show_author",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69519112e02a9300014a46ac",
+            "theme": "shipmas-theme",
+            "key": "show_publish_date",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69519112e02a9300014a46ad",
+            "theme": "shipmas-theme",
+            "key": "show_publication_info_sidebar",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "id": "69519112e02a9300014a46ae",
+            "theme": "shipmas-theme",
+            "key": "show_post_metadata",
+            "type": "boolean",
+            "value": "true"
+          },
+          {
+            "id": "69519112e02a9300014a46af",
+            "theme": "shipmas-theme",
+            "key": "enable_drop_caps_on_posts",
+            "type": "boolean",
+            "value": "false"
+          },
+          {
+            "id": "69519112e02a9300014a46b0",
+            "theme": "shipmas-theme",
+            "key": "show_related_articles",
+            "type": "boolean",
+            "value": "true"
+          }
+        ]
+      }
+    }
+  ]
+}

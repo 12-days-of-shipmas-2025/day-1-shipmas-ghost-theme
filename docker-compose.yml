@@ -1,0 +1,14 @@
+services:
+  ghost:
+    image: ghost:5-alpine
+    restart: unless-stopped
+    ports:
+      - "2368:2368"
+    environment:
+      url: http://localhost:2368
+      NODE_ENV: development
+      database__connection__filename: /var/lib/ghost/content/data/ghost-dev.db
+      mail__transport: Direct
+    volumes:
+      - ./ghost-local/content:/var/lib/ghost/content
+      - ./source:/var/lib/ghost/content/themes/shipmas

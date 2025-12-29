@@ -1,0 +1,215 @@
+{{!--
+================================================================================
+SHIPMAS GRID - 12 Days Card Grid
+================================================================================
+
+This partial renders the 12-day countdown grid by fetching posts tagged with
+day-1 through day-12.
+
+WHY 12 SEPARATE {{#get}} BLOCKS?
+--------------------------------
+Ghost's Handlebars {{#get}} helper requires LITERAL filter strings. You cannot
+dynamically interpolate values into the filter parameter:
+
+    DOES NOT WORK:
+    [#each (range 1 12)]
+        [#get "posts" filter="tag:day-[this]"]  <-- Invalid syntax
+    [/each]
+
+    ALSO DOES NOT WORK:
+    {{#get "posts" filter=(concat "tag:day-" @index)}}  <-- No concat helper
+
+This is a Ghost platform limitation, not a code quality issue. Each day requires
+its own explicit {{#get}} block with a hardcoded filter string.
+
+REQUIRED TAGS:
+- Each day post needs BOTH tags: "12-days-of-shipmas" AND "day-X" (where X is 1-12)
+- The day-X tag controls grid positioning
+- Missing days show as "Coming Soon" cards (handled by script.hbs)
+
+CARD STRUCTURE:
+- .shipmas-card: Link wrapper with data-day attribute for JS ordering
+- .shipmas-card-inner: Flex container for card content
+- .shipmas-day-number: Day label badge
+- .shipmas-card-image: Feature image or placeholder
+- .shipmas-card-content: Title and excerpt
+
+See also: partials/shipmas/script.hbs (handles locked/coming-soon cards)
+================================================================================
+--}}
+<section class="shipmas-grid-section gh-outer">
+    <div class="gh-inner">
+
+        <div class="shipmas-grid">
+            {{!-- Day 1-12: Each block fetches one post by its day-X tag --}}
+            {{#get "posts" filter="tag:day-1" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="1">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 1</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-2" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="2">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 2</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-3" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="3">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 3</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-4" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="4">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 4</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-5" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="5">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 5</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-6" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="6">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 6</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-7" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="7">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 7</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-8" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="8">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 8</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-9" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="9">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 9</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-10" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="10">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 10</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-11" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="11">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 11</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+            {{#get "posts" filter="tag:day-12" limit="1" include="tags"}}
+                {{#foreach posts}}
+                    <a href="{{url}}" class="shipmas-card revealed" data-day="12">
+                        <div class="shipmas-card-inner">
+                            <span class="shipmas-day-number">Day 12</span>
+                            {{#if feature_image}}<div class="shipmas-card-image" style="background-image: url('{{feature_image}}')"></div>{{else}}<div class="shipmas-card-image shipmas-card-placeholder"></div>{{/if}}
+                            <div class="shipmas-card-content">
+                                <h3 class="shipmas-card-title">{{title}}</h3>
+                                <p class="shipmas-card-excerpt">{{#if custom_excerpt}}{{custom_excerpt}}{{else}}{{excerpt words="8"}}{{/if}}</p>
+                            </div>
+                        </div>
+                    </a>
+                {{/foreach}}
+            {{/get}}
+        </div>
+    </div>
+</section>

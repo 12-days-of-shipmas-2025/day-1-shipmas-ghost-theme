@@ -1,0 +1,35 @@
+# Environment variables
+.env
+.ghost-api-key
+
+# Dependencies
+node_modules/
+
+# Ghost local data
+ghost-local/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temp files
+Untitled
+
+# Local development scripts (not for distribution)
+_local-scripts/
+
+# Generated content (uploaded to Ghost)
+generated-images/
+ghost-import.json
+
+# Split repos (if any)
+repos/
